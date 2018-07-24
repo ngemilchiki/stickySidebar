@@ -1,4 +1,4 @@
-# stickyElement
+# stickySidebar
 Another simple sticky element
 
 structure example
